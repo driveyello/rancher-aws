@@ -33,12 +33,12 @@
     },
     "AllocatedStorage": {
       "Type": "String",
-      "Default": "5",
+      "Default": "10",
       "Description": "Disk space, default 5GB"
     },
     "BackupRetentionPeriod": {
       "Type": "String",
-      "Default": "7",
+      "Default": "21",
       "Description": "Number of days"
     },
     "DBInstanceClass": {
